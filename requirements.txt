@@ -1,0 +1,7 @@
+Flask
+pandas
+numpy
+pickle-mixin
+matplotlib
+seaborn
+fpdf
